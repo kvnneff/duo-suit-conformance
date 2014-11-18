@@ -1,0 +1,9 @@
+/** @define MyComponent; use strict */
+
+:root {
+  --MyComponent-property: value;
+}
+
+.MyComponent {}
+
+.MyComponent .other {}

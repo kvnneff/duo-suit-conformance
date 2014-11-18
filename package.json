@@ -1,0 +1,37 @@
+{
+  "name": "duo-suit-conformance",
+  "version": "1.0.0",
+  "description": "Run SUITCSS conformance tests with Duo",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "duo": "^0.8.10",
+    "rework": "^1.0.1",
+    "rework-suit-conformance": "^0.4.1"
+  },
+  "devDependencies": {
+    "duo": "^0.8.10",
+    "mocha": "^2.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/staygrimm/duo-suit-conformance"
+  },
+  "keywords": [
+    "duo",
+    "suitcss",
+    "conformance",
+    "css"
+  ],
+  "author": "River Grimm <river.grimm@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/staygrimm/duo-suit-conformance/issues"
+  },
+  "homepage": "https://github.com/staygrimm/duo-suit-conformance"
+}
