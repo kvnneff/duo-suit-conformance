@@ -1,7 +1,7 @@
 {
   "name": "duo-suit-conformance",
   "version": "1.0.0",
-  "description": "Run SUITCSS conformance tests with Duo",
+  "description": "Run SUIT CSS conformance tests with Duo",
   "main": "index.js",
   "directories": {
     "test": "test"
