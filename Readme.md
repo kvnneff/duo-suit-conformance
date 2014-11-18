@@ -31,6 +31,8 @@ duo.run(function (err, file) {
 });
 ```
 
+## License
+
 The MIT License (MIT)
 
 Copyright (c) 2014 River Grimm <river.grimm@gmail.com>
