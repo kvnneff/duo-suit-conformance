@@ -1,6 +1,6 @@
 # duo-suit-conformance ![Build Status](https://travis-ci.org/staygrimm/duo-suit-conformance.svg?branch=master)
 
-A [SUIT CSS](github.com/suitcss/suit) conformance plugin for [Duo](https://github.com/duojs/duo).
+A [SUIT CSS](https://github.com/suitcss/suit) conformance plugin for [Duo](https://github.com/duojs/duo).
 
 ## Install
 
